@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreaEstefany09
 - 👀 I’m interested in blockchain, big data, smart contracts...
 - 🌱 I’m currently learning data mining, courses, frameworks 
-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andreaebg9@gmail.com
 - 😄 Pronouns: She/her 
 
